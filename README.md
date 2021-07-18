@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arinonia&theme=blue-green)](https://github.com/Arinonia)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arinonia&theme=blue-green)](https://github.com/Arinonia)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arinonia&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
