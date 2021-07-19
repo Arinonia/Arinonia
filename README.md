@@ -4,9 +4,24 @@
 
 ![](https://img.shields.io/youtube/channel/views/UCM9HY6s4K7HeaMwqTgEey6g)
 ![](https://komarev.com/ghpvc/?username=Arinonia&style=flat-square)<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arinonia&theme=blue-green)](https://github.com/Arinonia)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arinonia&layout=compact&theme=blue-green)](https://github.com/Arinonia)<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arinonia)](https://github.com/Arinonia)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Arinonia/Arinonia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arinonia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arinonia's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Arinonia/AriLibFX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=AriLibFX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 
 <!--
 **Arinonia/Arinonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
