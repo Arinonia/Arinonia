@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Arinonia&style=flat-square)<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arinonia&theme=blue-green)](https://github.com/Arinonia)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arinonia&layout=compact&theme=blue-green)](https://github.com/Arinonia)<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arinonia)](https://github.com/Arinonia)
