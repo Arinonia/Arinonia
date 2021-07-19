@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/youtube/channel/views/UCM9HY6s4K7HeaMwqTgEey6g)
 ![](https://komarev.com/ghpvc/?username=Arinonia&style=flat-square)<br>
