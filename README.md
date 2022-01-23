@@ -16,3 +16,6 @@
 <a href="https://github.com/Arinonia/OrdinalBot-Module-Music">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=OrdinalBot-Module-Music&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+<a href="https://github.com/Arinonia/DashboardFx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=DashboardFx&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
