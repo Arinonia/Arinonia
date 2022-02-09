@@ -1,5 +1,4 @@
 [![Header](https://github.com/Arinonia/Arinonia/blob/main/readme_header.png "")](https://github.com/Arinonia)
-https://wakatime.com/badge/user/05d3aaa3-878a-4f8a-bc99-97e962bd662a.svg
 
 ## &#x1f4c8; GitHub Stats
 
