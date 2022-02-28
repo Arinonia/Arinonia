@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arinonia&title_color=BA792A&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Arinonia&layout=compact&langs_count=6&theme=dracula)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Arinonia&layout=compact&langs_count=6&title_color=BA792A&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21")
 <a href="https://github.com/Arinonia/AriLibFX">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=AriLibFX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
