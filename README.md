@@ -1,4 +1,4 @@
-[![Header](https://github.com/Arinonia/Arinonia/blob/main/readme_header.png "")](https://github.com/Arinonia)
+[![Header](https://github.com/Arinonia/Arinonia/blob/main/readme_header.jpg "")](https://github.com/Arinonia)
 
 # Hello, I'm Arinonia! 👋
 
