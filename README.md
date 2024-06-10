@@ -30,7 +30,7 @@ I love to create solution where no one ask anything :)
 
 ## 📌 Pinned Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=OpenJUpdate&theme=vision-friendly-dark)](https://github.com/Arinonia/OpenJUpdate)
+[![OpenJUpdate](https://github-readme-stats.vercel.app/api/pin/?username=Arinonia&repo=OpenJUpdate&theme=vision-friendly-dark)](https://github.com/Arinonia/OpenJUpdate)
 
 
 
