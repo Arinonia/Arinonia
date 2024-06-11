@@ -6,7 +6,7 @@
 
 I love to create solution where no one ask anything :)
 
-- 🔭 I’m currently working on [**OrdinalBot-API**](https://github.com/Ordinal-Team/OrdinalBot-API)
+- 🔭 I’m currently working on [**OrdinalTeamWeb**](https://github.com/Ordinal-Team/OrdinalTeamWeb) and [**OrdinalBot-API**](https://github.com/Ordinal-Team/OrdinalBot-API)
 - 🌱 I’m currently learning **SpringBoot**
 - 📫 EMail arinonia.dev@gmail.com
 - 💻 I love creating software or solutions
