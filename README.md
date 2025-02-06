@@ -1,5 +1,3 @@
-[![Header](https://github.com/Arinonia/Arinonia/blob/main/readme_header.jpg "")](https://github.com/Arinonia)
-
 # Hello, I'm Arinonia! 👋
 
 ## 🚀 About Me
